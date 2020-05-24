@@ -1,0 +1,12 @@
+version: "3"
+services:
+  web:
+    build: .
+    ports:
+      - "6901:3000"
+    links:
+      - "db"
+  db:
+    image: mongo
+    ports:
+      - "27069:27017"

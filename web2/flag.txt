@@ -1,0 +1,1 @@
+DeniceCTF_2020{web2_001_directory_traversal_and_js_code_inject_KYBSCU}
