@@ -6,13 +6,7 @@
 15  DeniceCTF_2020{bof_001_don't_use_gets_SGECFG}
 15  DeniceCTF_2020{bof_002_stack_canary_not_good_enought_OKHBCS}
 15  DeniceCTF_2020{bof_003_set_value_with_bufferOverflow_MEXKUV}
-//DeniceCTF_2020{bof_004_call_function_we_want_HDXNOW}
 15  CTF{re101_ez_flag}
 25  CTF{read_flag_in_mem}
 20  DeniceCTF_2020{GIT_001_delete_.git_before_deploy_XMADWG}
 20 DeniceCTF_2020{don't_let_anyone_guess_your_seed_ez_SMCHRD}
-
-
-custom_chat (Hard)
-crypto
-flag pattern : DeniceCTF_2020{A_______________ED}
